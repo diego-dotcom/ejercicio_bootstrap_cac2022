@@ -11,14 +11,14 @@
 }
 
 .imagen_portada {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/imagenes_integrador_front/ba1.jpg");
-    height: 600px;  
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/integrador/imagenes_integrador_front/ba1.jpg");
+    height: 600px;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center bottom;
 
-    box-shadow: 0px 5px 15px 0px rgba(112,112,112,0.51);
-    padding: 100px;    
+    box-shadow: 0px 5px 15px 0px rgba(112, 112, 112, 0.51);
+    padding: 100px;
 }
 
 .boton_comprar {
@@ -37,7 +37,3 @@
 .footer {
     background-color: var(--footer);
 }
-
-
-
-
